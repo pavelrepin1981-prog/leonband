@@ -1,0 +1,19 @@
+name: Проверка сайта LEON
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Проверить основные файлы
+        run: |
+          test -f index.html
+          test -f app/public/assets/videos/leon-promo-bg.mp4
+          test -f app/public/assets/docs/technical-rider.docx

@@ -8,14 +8,14 @@
 |---|---|
 | Рабочая папка сайта | `~/Documents/Codex/2026-07-22/new-chat/LEON-site` |
 | Аккаунт GitHub | `pavelrepin1981-prog` |
-| Репозиторий GitHub | Будет создан: `leon-site` |
+| Репозиторий GitHub | `leonband` |
 | Хостинг | GitHub Pages, бесплатно |
 | Домен | Пока не выбран и не подключён |
 | Регистратор будущего домена | REG.RU, тот же аккаунт, что у funnykaplan.ru |
 
 До покупки домена сайт будет открываться по адресу вида:
 
-`https://pavelrepin1981-prog.github.io/leon-site/`
+`https://pavelrepin1981-prog.github.io/leonband/`
 
 ## 1. Состав сайта
 
@@ -33,7 +33,7 @@
 
 ## 2. Создание репозитория GitHub
 
-Репозиторий создаётся в аккаунте **pavelrepin1981-prog** с именем **`leon-site`**.
+Репозиторий создан в аккаунте **pavelrepin1981-prog** с именем **`leonband`**.
 
 Настройки при создании:
 
@@ -43,7 +43,7 @@
 
 После создания адрес репозитория будет:
 
-`https://github.com/pavelrepin1981-prog/leon-site`
+`https://github.com/pavelrepin1981-prog/leonband`
 
 ## 3. Включение публикации через GitHub Pages
 
